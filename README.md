@@ -34,8 +34,8 @@
 <h1 align="center">:snowflake: My Weather App :cloud:</h1>
 
 <p align="center">
-    Simple, elegant and efficient description of your Project.<br/><br/>
-    <a href="https://linkOfLiveDemo">Live Demo</a><br/><br/>
+    Simple, elegant and efficient Weather Application.<br/><br/>
+    <a href="https://banaanas.github.io/my-weather-app/">Live Demo</a><br/><br/>
 </p>
 
 
@@ -147,7 +147,7 @@ Distributed under the MIT License. See <a href="./LICENCE.txt">`LICENSE`</a> for
 
 Cyrilo - [Personal Website](https://yetToCome) - cyrildeveloppeur@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Banaanas/my-weather-app]
 
 
 <!-- ACKNOWLEDGEMENTS -->
