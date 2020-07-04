@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-    <a href="https://linkOfLiveDemo">
+    <a href="https://banaanas.github.io/my-weather-app/">
         <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="80" height="80">
     </a>
 </p>
@@ -35,7 +35,7 @@
 
 <p align="center">
     Simple, elegant and efficient description of your Project.<br/><br/>
-    <a href="https://linkOfLiveDemo">Live Demo</a><br/><br/>
+    <a href="https://banaanas.github.io/my-weather-app/">Live Demo</a><br/><br/>
 </p>
 
 
@@ -58,7 +58,7 @@
 Weather Application achieved as part of <a href="https://www.theodinproject.com/courses/javascript/lessons/weather-app">The Odin Project - JavaScript curriculum</a>.
 
 <p align="center">
-  <a href="https://linkOfLiveDemo">
+  <a href="https://banaanas.github.io/my-weather-app/">
     <img src="src/images/README/screenshot-1.png" alt="Screenshot" width="455" height="350">
   </a>
 </p>
@@ -71,7 +71,7 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 - Forecast Weather : five days forecast weather.
 
 <p align="center">
-  <a href="https://linkOfLiveDemo">
+  <a href="https://banaanas.github.io/my-weather-app/">
     <img src="src/images/README/screenshot-2.png" alt="Screenshot" width="281" height="500">
   </a>
 </p>
