@@ -65,10 +65,10 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 
 
 #### Principal Features
-- Weather by city (autocomplete search)
-- Geolocation / Default Location (Paris)
-- Current Day : current weather, current temperature, maximum and minimum daily temperature
-- Forecast Weather : five days forecast weather
+- Weather by city (autocomplete search);
+- Geolocation / Default Location (Paris);
+- Current Day : current weather, current temperature, maximum and minimum daily temperatures;
+- Forecast Weather : five days forecast weather.
 
 <p align="center">
   <a href="https://linkOfLiveDemo">
