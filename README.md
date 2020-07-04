@@ -35,7 +35,7 @@
 
 <p align="center">
     Simple, elegant and efficient description of your Project.<br/><br/>
-    <a href="https://banaanas.github.io/my-weather-app/">Live :computer: Demo</a><br/><br/>
+    <a href="https://banaanas.github.io/my-weather-app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
 
