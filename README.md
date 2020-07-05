@@ -34,7 +34,7 @@
 <h1 align="center">:snowflake: My Weather App :cloud:</h1>
 
 <p align="center">
-    Simple, elegant and efficient description of your Project.<br/><br/>
+    Simple, elegant and efficient Weather Application.<br/><br/>
     <a href="https://banaanas.github.io/my-weather-app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
