@@ -27,7 +27,7 @@
 <br/>
 <p align="center">
     <a href="https://banaanas.github.io/my-weather-app/">
-        <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="80" height="80">
+        <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
 
