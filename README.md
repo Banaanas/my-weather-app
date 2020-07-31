@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-    <a href="https://banaanas.github.io/my-weather-app/">
+    <a href="https://banaanas.github.io/weather-app-TOP/">
         <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
@@ -35,7 +35,7 @@
 
 <p align="center">
     Simple, elegant and efficient Weather Application.<br/><br/>
-    <a href="https://banaanas.github.io/my-weather-app/">:computer: Live Demo :eyes:</a><br/><br/>
+    <a href="https://banaanas.github.io/weather-app-TOP/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
 
@@ -58,7 +58,7 @@
 Weather Application achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript curriculum</a>.
 
 <p align="center">
-  <a href="https://banaanas.github.io/my-weather-app/">
+  <a href="https://banaanas.github.io/weather-app-TOP/">
     <img src="src/images/README/screenshot-1.png" alt="Screenshot" width="455" height="350">
   </a>
 </p>
@@ -71,7 +71,7 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 - Forecast Weather : five days forecast weather.
 
 <p align="center">
-  <a href="https://banaanas.github.io/my-weather-app/">
+  <a href="https://banaanas.github.io/weather-app-TOP/">
     <img src="src/images/README/screenshot-2.png" alt="Screenshot" width="280" height="500">
   </a>
 </p>
@@ -147,7 +147,7 @@ Distributed under the MIT License. See <a href="./LICENCE.txt">`LICENSE`</a> for
 
 Cyrilo - [Personal Website](https://yetToCome) - cyrildeveloppeur@gmail.com
 
-Project Link: [https://github.com/Banaanas/my-weather-app](https://github.com/Banaanas/my-weather-app)
+Project Link: [https://github.com/Banaanas/my-weather-app-TOP](https://github.com/Banaanas/my-weather-app-TOP)
 
 
 <!-- ACKNOWLEDGEMENTS -->
