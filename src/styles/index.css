@@ -17,7 +17,6 @@ html {
 body {
     display: flex;
     flex-direction: column;
-    flex-shrink: 0;
     align-items: center;
     justify-content: space-evenly;
     min-width: 350px;
@@ -59,7 +58,6 @@ header {
 
 #main {
     display: flex;
-    flex-shrink: 0;
     align-items: center;
     justify-content: space-evenly;
     width: 80%;
