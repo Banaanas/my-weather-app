@@ -4,16 +4,24 @@ import places from "places.js";
 import "regenerator-runtime/runtime";
 
 // Import stylesheets
-import "./styles/index.scss";
 import "./styles/index.css";
 import "./styles/normalize.css";
 import "./styles/weather-icons.css";
+
+// Import Images
+import sunIconSrc from "./images/sun.svg";
+import rainbowIconSrc from "./images/rainbow.svg";
 
 // Imports from Modules
 import elements from "./js/DOM-elements";
 import { removeCurrentWeather, removeForecastDays } from "./js/view";
 import controlSearch from "./js/control-search";
 import getGeolocation from "./js/location";
+
+// Set Images src
+const permanentIcons = document.querySelectorAll(".permanent-icons");
+permanentIcons[0].src = sunIconSrc;
+permanentIcons[1].src = rainbowIconSrc;
 
 // Get Paris Weather - Default Weather
 // Then ask User for Geolocation

@@ -26,16 +26,16 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-    <a href="https://banaanas.github.io/weather-app-TOP/">
+    <a href="https://my-weather.cyrilo.app/">
         <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
 
-<h1 align="center">:snowflake: My Weather App :cloud:</h1>
+<h1 align="center">:snowflake: My Weather :cloud:</h1>
 
 <p align="center">
     Simple, elegant and efficient Weather Application.<br/><br/>
-    <a href="https://banaanas.github.io/weather-app-TOP/">:computer: Live Demo :eyes:</a><br/><br/>
+    <a href="https://my-weather.cyrilo.app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
 
@@ -58,7 +58,7 @@
 Weather Application achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
 
 <p align="center">
-  <a href="https://banaanas.github.io/weather-app-TOP/">
+  <a href="https://my-weather.cyrilo.app/">
     <img src="src/images/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="400">
   </a>
 </p>
@@ -71,7 +71,7 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 - Forecast Weather : five days forecast weather.
 
 <p align="center">
-  <a href="https://banaanas.github.io/weather-app-TOP/">
+  <a href="https://my-weather.cyrilo.app/">
     <img src="src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
