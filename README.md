@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h1 align="center">:snowflake: My Weather :cloud:</h1>
+<h1 align="center">❄️ My Weather ☁️</h1>
 
 <p align="center">
     Simple, elegant and efficient Weather Application.<br/><br/>
