@@ -68,7 +68,8 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 - Weather by city (autocomplete search) ;
 - Geolocation / Default Location (Paris) ;
 - Current Day : current weather, current temperature, maximum and minimum daily temperatures ;
-- Forecast Weather : five days forecast weather.
+- Forecast Weather : five days forecast weather ;
+- Responsive Design.
 
 <p align="center">
   <a href="https://my-weather.cyrilo.app/">
