@@ -52,7 +52,8 @@
 - [License](#license)
 - [Contact](#contact)
 
-<!-- TABLE OF CONTENTS -->
+
+<!-- ABOUT THE PROJECT -->
 
 ## About the Project
 Weather Application achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
@@ -63,6 +64,8 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
   </a>
 </p>
 
+
+<!-- PRINCIPAL FEATURES -->
 
 #### Principal Features
 - Weather by city (autocomplete search) ;
@@ -76,6 +79,9 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
     <img src="./src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
+
+
+<!-- BUILT WITH -->
 
 #### Built With
 
@@ -152,9 +158,7 @@ Project Link: [https://github.com/Banaanas/my-weather-app-TOP](https://github.co
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
-- [GitHub Pages](https://pages.github.com)
-- [Flaticon](https://www.flaticon.com/)
-- [Material Icons](https://material.io/resources/icons/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
