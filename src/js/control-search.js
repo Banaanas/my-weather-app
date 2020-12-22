@@ -1,16 +1,22 @@
 import SearchWeather from "./search-weather";
 import {
-  removeCurrentWeather, removeForecastDays,
+  removeCurrentWeather,
+  removeForecastDays,
   renderCurrentWeather,
-  renderForecastDays, renderLoader,
+  renderForecastDays,
+  renderLoader,
 } from "./view";
 import elements from "./DOM-elements";
 import errorIcon from "../images/error.svg";
 
-const state = {};// Object where the application state will be stored
+const state = {}; // Object where the application state will be stored
 
 // Control the Search Weather process
-const controlSearch = async (latitude, longitude, locationName = "Your Location") => {
+const controlSearch = async (
+  latitude,
+  longitude,
+  locationName = "Your Location",
+) => {
   const isLoaderPresent = await document.querySelector("#loader-container");
   if (!isLoaderPresent) {
     removeForecastDays();
@@ -25,7 +31,8 @@ const controlSearch = async (latitude, longitude, locationName = "Your Location"
     const forecastWeather = state.weatherSearch.responseAPI.data.daily;
     renderCurrentWeather(currentWeather, forecastWeather, locationName);
     renderForecastDays(forecastWeather);
-  } catch (error) { // Add an error text and an animation
+  } catch (error) {
+    // Add an error text and an animation
     removeCurrentWeather();
     removeForecastDays();
     elements.currentWeatherContainer.insertAdjacentHTML(

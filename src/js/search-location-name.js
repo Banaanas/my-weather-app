@@ -11,7 +11,7 @@ const SearchLocationName = (latitude, longitude) => {
   async function getName() {
     try {
       const response = await axios(
-        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${APIKey}`
+        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${APIKey}`,
       );
       this.responseAPI = await response;
       return this.responseAPI;

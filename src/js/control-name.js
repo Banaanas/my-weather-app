@@ -13,7 +13,8 @@ const controlNameSearch = async (latitude, longitude) => {
   state.locationNameSearch = SearchLocationName(latitude, longitude); // Google Reverse Geocoding API Call
   try {
     await state.locationNameSearch.getName();
-    const resultsArray = await state.locationNameSearch.responseAPI.data.results;
+    const resultsArray = await state.locationNameSearch.responseAPI.data
+      .results;
     let locationName;
     // eslint-disable-next-line no-restricted-syntax
     for (const element of resultsArray) {

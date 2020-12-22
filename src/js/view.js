@@ -35,25 +35,25 @@ const renderCurrentWeather = (
         <div id="date-and-minmax-container">
             <div id="minmax-temperatures">
                 <span id="maximum">${kelvinToDegrees(
-    forecastWeather[0].temp.max,
-  )}°C</span> / <span id="minimum">${kelvinToDegrees(
-  forecastWeather[0].temp.min,
-)}°C</span>
+                  forecastWeather[0].temp.max,
+                )}°C</span> / <span id="minimum">${kelvinToDegrees(
+      forecastWeather[0].temp.min,
+    )}°C</span>
             </div>
             <div id="current-date">${getCurrentDate(currentWeather.dt)}</div>
         </div>
         <div id="image-container">
             <div id="current-day-image"><i class="wi wi-owm-${
-  currentWeather.weather[0].id
-}"></i></div>
+              currentWeather.weather[0].id
+            }"></i></div>
         </div>
         <div id="current-details">
             <div id="current-temperature">${kelvinToDegrees(
-    currentWeather.temp,
-  )}°C</div>
+              currentWeather.temp,
+            )}°C</div>
             <div id="current-description">${
-  currentWeather.weather[0].description
-}</div>
+              currentWeather.weather[0].description
+            }</div>
         </div>
   `,
   );
@@ -76,8 +76,8 @@ const renderForecastDays = (forecastDays) => {
            <div class="forecast-date">${forecastDay} ${forecastDate}</div>
            <div class="forecast-icon"><i class="wi forecast-days-icon wi-owm-${imageForecastDay}"></i></div>
            <div class="forecast-temperature">${kelvinToDegrees(
-    tempForecastDay,
-  )}°C</div></div>`,
+             tempForecastDay,
+           )}°C</div></div>`,
     );
   });
 };

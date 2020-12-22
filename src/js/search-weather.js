@@ -8,7 +8,7 @@ const SearchWeather = (lat, long) => {
     try {
       const response = await axios(
         `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&
-         exclude=current,hourly,minutely,daily&appid=${APIKey}`
+         exclude=current,hourly,minutely,daily&appid=${APIKey}`,
       );
       this.responseAPI = await response;
       return this.responseAPI;
